@@ -24,6 +24,9 @@ body.thunder {
 body.haze {
   background: url("../images/haze.jpg");
 }
+body.mist {
+  background: url("../images/mist.jpg");
+}
 .loading,
 .error {
   display: none;

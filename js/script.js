@@ -109,6 +109,9 @@ async function updateData(x) {
         } else if (condition == "Rain") {
           document.body.className =
             "bg-primary d-flex align-items-center justify-content-center rain";
+        } else if (condition == "Mist") {
+          document.body.className =
+            "bg-primary d-flex align-items-center justify-content-center mist";
         }
       }
     })
