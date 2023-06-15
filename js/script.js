@@ -57,7 +57,7 @@ document.addEventListener("click", (e) => {
 
 // creating async function for fetching from api
 async function updateData(x) {
-  const apiKey = "2eccac9cf0dd4165c2ae14a650b3d746";
+  const apiKey = "7030324dc6c24a7798c70832230106";
   let location = x;
   // 6eb1180161eccb06843669dbee0f87b3 got through online
   // 2eccac9cf0dd4165c2ae14a650b3d746 got through my mail
